@@ -1,1 +1,35 @@
 /* Write your CSS here! */
+img {
+  max-width: 70%;
+  height: auto;
+}
+
+body{
+  margin: 8px;
+  display: block;
+}
+table,
+th,
+td {
+  border: 2px solid black;
+}
+
+section {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+#mainHeading {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  color: red;
+
+}
+
+.funParagraph{
+  color:green;
+}
